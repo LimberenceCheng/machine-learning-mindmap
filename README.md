@@ -10,10 +10,13 @@ Machine Learning is as fascinating as it is broad in scope. It spans over multip
 Download the PDF here:
 - https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning.pdf
 
+Same, but with a white background:
+- https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning%20-%20White%20BG.pdf
+
 I've built the mindmap with MindNode for the Mac. https://mindnode.com
 
 ## Companion Notebook
-This Mindmap/Cheatsheet has a companion Jupyter Notepad that runs through most of the Data Science steps that can be found at the following link:
+This Mindmap/Cheatsheet has a companion Jupyter Notebook that runs through most of the Data Science steps that can be found at the following link:
 - https://github.com/dformoso/sklearn-classification
 
 ## Mindmap on Deep Learning
@@ -44,6 +47,21 @@ A partial list of the types, categories, approaches, libraries, and methodology.
 A sampling of the most popular models. Send your comments to add more.
 
 ![alt text](https://github.com/dformoso/machine-learning-mindmap/blob/master/images/Models.png)
+
+
+## References
+I'm planning to built a more complete list of references in the future. For now, these are some of the sources I've used to create this Mindmap.
+
+- Stanford and Oxford Lectures. CS20SI, CS224d.
+- Books: 
+  - Deep Learning - Goodfellow. 
+  - Pattern Recognition and Machine Learning - Bishop. 
+  - The Elements of Statistical Learning - Hastie.
+- Colah's Blog. http://colah.github.io
+- Kaggle Notebooks.
+- Tensorflow Documentation pages.
+- Google Cloud Data Engineer certification materials.
+- Multiple Wikipedia articles.
 
 
 ## About Me
